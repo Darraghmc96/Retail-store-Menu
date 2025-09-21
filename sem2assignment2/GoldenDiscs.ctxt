@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GoldenDiscs
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GoldenDiscs\ here.\r\n\r\n\ @author\ (Darragh\ mcmanus)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GoldenDiscs()
+comment2.params=price\ quantity\ name
+comment2.target=GoldenDiscs(double,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=int\ getQuantity()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=price
+comment6.target=void\ setPrice(double)
+comment7.params=quantity
+comment7.target=void\ setQuantity(int)
+comment8.params=name
+comment8.target=void\ setName(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Music
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Music\ here.\r\n\r\n\ @author\ (Darragh\ mcmanus)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Music()
+comment2.params=type\ artist\ year\ price\ quantity\ name
+comment2.target=Music(java.lang.String,\ java.lang.String,\ int,\ double,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=java.lang.String\ getArtist()
+comment5.params=
+comment5.target=int\ getYear()
+comment6.params=type
+comment6.target=void\ setType(java.lang.String)
+comment7.params=artist
+comment7.target=void\ setArtist(java.lang.String)
+comment8.params=year
+comment8.target=void\ setYear(int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
